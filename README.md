@@ -39,3 +39,13 @@ This application outputs the description and the price of all the products found
 - Open Windows PowerShell in repository root directory
 - Build the project with `dotnet build .\CLIApplication\`
 - Start the application with `.\CLIApplication\bin\Debug\net8.0\CLIApplication.exe`
+
+## 🥾 Next Steps
+
+Project progress.
+
+- [x] Get products from the Mercado Livre products list.
+- [x] Get current prices for each product.
+- [x] Calculate average price of products.
+- [ ] Extract data from all product list pages.
+- [ ] Identify kits and batch products for greater price accuracy.
